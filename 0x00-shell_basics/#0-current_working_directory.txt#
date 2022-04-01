@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+#script for printing current working directory
+realpath --relative-base = 0-current_working_directory
