@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lc |head
+find . -mindepth 1 -type d |wc -1
