@@ -1,2 +1,2 @@
 #!/bin/bash
-echo hello, root | tr ":" "\n" 
+echo hello, $USER 
