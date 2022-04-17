@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod 777 /alx-system_engineering-devops/x001-shell_permissions
